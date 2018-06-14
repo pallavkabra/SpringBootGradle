@@ -1,0 +1,14 @@
+class Ideone1
+{
+	public static void main (String[] args) throws java.lang.Exception
+	{
+		System.out.println("HELLO");
+	}
+}
+class HelloWorld{
+	public static void main (String[] args) throws java.lang.Exception
+	{
+		System.out.println("HI");
+	}
+}
+
