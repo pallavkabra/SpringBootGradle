@@ -8,6 +8,7 @@ class Ideone2
 class Ideone1{
 	public static void main (String[] args) throws java.lang.Exception
 	{
+		System.out.println("How are you?");
 		System.out.println("HI");
 	}
 }
